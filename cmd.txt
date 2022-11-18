@@ -1,0 +1,51 @@
+Opens the Command prompt  	cmd
+Access Windows 11 Control   Panel	control
+Opens the Registry Editor 	regedit
+Opens the System Information window 	msconfig
+Opens Services utility	  services.msc
+Opens the File Explorer	  explorer
+Opens the Local Group Policy Editor 	gpedit.msc
+Opens up Google Chrome	  chrome
+Opens up Mozilla Firefox	  firefox
+Opens up Microsoft Edge	  explore or microsoft-edge:
+Opens the System Configuration dialog box 	msconfig
+Opens the Temporary files folder	  %temp% or temp
+Opens the Disk Cleanup dialog	  cleanmgr
+Opens the Task Manager	  taskmgr
+Manage User Accounts	netplwiz
+Access Programs and Features Control panel	appwiz.cpl
+Access Device Manager	devmgmt.msc or hdwwiz.cpl
+Manage Windows Power options	powercfg.cpl
+Shuts down your Computer	shutdown
+Opens the DirectX Diagnostic Tool	dxdiag
+Opens the Calculator	calc
+Check up on System Resource (Resource Monitor)	resmon
+Opens up an untitled Notepad	notepad
+Access Power Options	powercfg.cpl
+Opens Computer Management console	compmgmt.msc or compmgmtlauncher
+Opens up the current user profile directory	.
+Open up the Users folder	..
+Open On-Screen Keyboard	osk
+Access Network Connections	ncpa.cpl or control netconnection
+Access mouse properties	main.cpl or control mouse
+Opens the Disk Management Utility	diskmgmt.msc
+Open up Remote Desktop Connection	mstsc
+Open Windows PowerShell window	powershell 
+Access Folder Options	control folders
+Access Windows Defender Firewall	firewall.cpl
+Logout of the Current User Account	logoff
+Open Microsoft Wordpad	write
+Open untitled MS Paint	mspaint
+Turn Windows Features On/Off	optionalfeatures
+Open the C Drive	\
+Open System Properties dialog	sysdm.cpl
+Monitor the performance of the system	perfmon.msc
+Open Microsoft Windows Malicious Software Removal Tool	mrt
+Open Windows Character Map table	charmap
+Open Snipping Tool	snippingtool
+Check Windows Version	winver
+Open Microsoft Magnifier	magnify
+Open Disk Partition Manager	diskpart
+Open any website	Enter Website URL
+Open Disk Defragmenter utility	dfrgui
+Open Windows Mobility Center	mblctr
